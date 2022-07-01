@@ -24,7 +24,7 @@
 * https://xueqiu.com/
 * https://explorer.helium.com/
 * https://www.douyin.com/
-* https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+* https://bytebytego.com/
 * https://odyssey.geekdao.info/
 
 ## System Design
