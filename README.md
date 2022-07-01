@@ -1,4 +1,33 @@
-## reference
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+- [Bookmarks](#bookmarks)
+- [System Design](#system-design)
+- [刷题套路总结](#刷题套路总结)
+- [1point3acres](#1point3acres)
+
+<!-- /code_chunk_output -->
+
+## Bookmarks
+* https://web.telegram.org/
+* https://discord.com/
+* https://mail.yahoo.com/
+* https://m.weibo.cn/
+* https://twitter.com/i/timeline
+* https://www.instagram.com/
+* https://www.tradingview.com/chart/WXUzEy1T/?symbol=spx
+* https://dune.com/browse/dashboards
+* https://tokenterminal.com/terminal
+* https://bbs.hupu.com/all-nba
+* https://commonstock.com/
+* https://xueqiu.com/
+* https://explorer.helium.com/
+* https://www.douyin.com/
+* https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+* https://odyssey.geekdao.info/
+
+## System Design
 * [ByteByteGo_LinkedIn_PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 * [Grokking the Object Oriented Design Interview](https://akshay-iyangar.github.io/system-design/)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
