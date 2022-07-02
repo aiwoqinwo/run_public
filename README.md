@@ -34,6 +34,7 @@
 * [1point3acres](https://www.1point3acres.com/bbs/thread-889046-1-1.html)
 * [substack](https://quastor.substack.com/)
 * [bytebytego](https://bytebytego.com/)
+* https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw?app=desktop
 * [star-method](https://lethain.com/star-method/)
 
 ## 刷题套路总结
