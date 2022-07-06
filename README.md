@@ -36,6 +36,7 @@
 * [bytebytego](https://bytebytego.com/)
 * https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw?app=desktop
 * [star-method](https://lethain.com/star-method/)
+* https://www.1point3acres.com/bbs/thread-909258-1-1.html
 
 ## 刷题套路总结
 * 做题目先把想法画出来, 然后过一边例子
