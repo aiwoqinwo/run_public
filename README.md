@@ -5,6 +5,7 @@
 - [Bookmarks](#bookmarks)
 - [System Design](#system-design)
 - [刷题套路总结](#刷题套路总结)
+- [Jobs](#jobs)
 - [1point3acres](#1point3acres)
 
 <!-- /code_chunk_output -->
@@ -37,6 +38,7 @@
 * https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw?app=desktop
 * [star-method](https://lethain.com/star-method/)
 * https://www.1point3acres.com/bbs/thread-909258-1-1.html
+* https://www.1point3acres.com/bbs/thread-906111-1-1.html?mobile=2
 
 ## 刷题套路总结
 * 做题目先把想法画出来, 然后过一边例子
@@ -79,6 +81,19 @@
 * [[289](https://leetcode.com/problems/game-of-life/), [130](https://leetcode.com/problems/surrounded-regions/)]省空间的题目, 往往利用原本的数组或者矩阵一小部分来储存原先的状态
 * [[1366](https://leetcode.com/problems/rank-teams-by-votes/), [635](https://leetcode.com/problems/design-log-storage-system/)] `sort()` 是根据先后关系依次排序
 * [[2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)] bitmask(有待完善)
+
+## Jobs
+* 加小姐姐微信：Canger0124，回复「周报」，和「响指研究所周报」一起用最高效的方式读懂加密行业。
+* Research DAO - Early Participation Form
+* #role
+* https://www.1point3acres.com/bbs/thread-902863-1-1.html
+* https://www.notion.so/ML-Engineer-5d8ca3c6b45449c685a7d99e1e5328f9
+* https://www.1point3acres.com/bbs/thread-576619-1-1.html
+* https://www.1point3acres.com/bbs/thread-882105-1-1.html
+* https://www.1point3acres.com/bbs/thread-869923-1-1.html
+https://variant.fund/careers/data-scientist-investments1
+https://boards.greenhouse.io/messari/jobs/4033661005
+https://twitter.com/juicemanjamez
 
 ## 1point3acres
 * https://www.1point3acres.com/bbs/thread-844018-1-1.html
