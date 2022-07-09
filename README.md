@@ -91,9 +91,10 @@
 * https://www.1point3acres.com/bbs/thread-576619-1-1.html
 * https://www.1point3acres.com/bbs/thread-882105-1-1.html
 * https://www.1point3acres.com/bbs/thread-869923-1-1.html
-https://variant.fund/careers/data-scientist-investments1
-https://boards.greenhouse.io/messari/jobs/4033661005
-https://twitter.com/juicemanjamez
+* https://variant.fund/careers/data-scientist-investments1
+* https://boards.greenhouse.io/messari/jobs/4033661005
+* https://twitter.com/juicemanjamez
+* https://docs.google.com/document/d/1Z3M1bLs4bcQqbKMoCuPaTPdt8nAiDuJVhHZMfKDPYN4/edit
 
 ## 1point3acres
 * https://www.1point3acres.com/bbs/thread-844018-1-1.html
