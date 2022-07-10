@@ -95,6 +95,7 @@
 * https://boards.greenhouse.io/messari/jobs/4033661005
 * https://twitter.com/juicemanjamez
 * https://docs.google.com/document/d/1Z3M1bLs4bcQqbKMoCuPaTPdt8nAiDuJVhHZMfKDPYN4/edit
+* https://www.1point3acres.com/bbs/thread-908326-1-1.html
 
 ## 1point3acres
 * https://www.1point3acres.com/bbs/thread-844018-1-1.html
